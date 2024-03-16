@@ -16,7 +16,7 @@ $(function () {
 
   // SMOOTHSCROLL NAVBAR
   $(function () {
-    $('.navbar a, .hero-text a').on('click', function (event) {
+    $('.navbar a, .hero-text a, .brands a').on('click', function (event) {
       var $anchor = $(this);
       $('html, body').stop().animate({
         scrollTop: $($anchor.attr('href')).offset().top - 49
