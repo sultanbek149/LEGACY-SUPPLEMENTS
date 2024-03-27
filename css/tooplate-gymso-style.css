@@ -730,3 +730,27 @@ button#submit-button:hover {
     column-gap: 2rem;
   }
 }
+
+.info {
+  flex-direction: column;
+}
+
+.site-footer {
+  text-align: left;
+}
+
+.site-footer p {
+  margin-bottom: 0.5rem;
+}
+
+@media screen and (min-width: 992px) {
+  .site-footer .row {
+    justify-content: space-evenly;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .info {
+    flex-direction: row;
+  }
+}
