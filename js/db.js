@@ -63,7 +63,7 @@ const data = {
             'contact us'
         ],
         slogan: 'The new way to build a healthy lifestyle!',
-        title: 'LEGACY SUPPLEMENTS FOR MODERN WELLNESS',
+        title: 'Legacy Supplements Boosting Our Partners, Delivery by Delivery – Your Triumph, Our Goal',
         learn: 'learn more',
         featureh2: 'New to the LEGACY?',
         featureh6: 'LEGACY SUPPLEMENTS, a distributor in the fitness industry. Join us in empowering health and wellness journeys.',
@@ -106,16 +106,16 @@ const data = {
     "spanish": {
         navLinks: [
             'inicio',
-            'sobre nosotros',
+            'quienes somos',
             'marcas',
             'contáctenos'
         ],
         slogan: '¡La nueva forma de construir un estilo de vida saludable!',
-        title: 'Tributos de suplementos para el bienestar moderno',
+        title: 'Eleva tu negocio con Legacy Supplements: Calidad que inspira, éxito asegurado.',
         learn: 'aprender más',
         featureh2: '¿Nuevo en LEGACY?',
-        featureh6: 'LEGACY SUPPLEMENTS, un distribuidor en la industria del fitness. Únete a nosotros para potenciar los viajes de salud y bienestar.',
-        becomePartner: 'Conviértete en socio hoy',
+        featureh6: '¡Únete a la familia Legacy Supplements y forma parte de nuestro éxito! Como distribuidor en la vanguardia del fitness, te ofrecemos la oportunidad de crecer junto a nosotros. Descubre cómo podemos impulsar juntos tus metas comerciales y alcanzar nuevos niveles de prosperidad en el mercado de bienestar.',
+        becomePartner: 'CONVIERTETE EN MAYORISTA',
         workingHours: 'Horario laboral',
         workingDays: [
             'Domingo: Cerrado',
@@ -123,9 +123,9 @@ const data = {
             'Sábado'
         ],
         aboutSection: {
-            h2: "SOBRE NOSOTROS",
-            p1: "Bienvenido a Legacy Supplements, su fuente definitiva de productos nutricionales premium de las mejores marcas. Con más de siete años de experiencia en distribución al por mayor en América del Sur y Central, Legacy Supplements se ha convertido en un socio confiable en la industria del fitness.",
-            p2: "Ofreciendo precios competitivos al por mayor, capacitamos a las empresas para prosperar en el mercado de suplementos deportivos. Explore nuestra amplia gama de marcas hoy mismo y descubra la ventaja de Legacy Supplements."
+            h2: "¿QUIENES SOMOS?",
+            p1: "¡Bienvenido a Legacy Supplements, tu fuente confiable de productos nutricionales premium de las marcas más destacadas! Con más de siete años de experiencia en la distribución mayorista en América del Sur y Central, nos hemos establecido como un socio confiable en la industria del fitness.",
+            p2: "Ofrecemos precios competitivos al por mayor y capacitamos a las empresas para triunfar en el mercado de los suplementos deportivos. ¡Explora nuestra amplia selección de marcas hoy mismo y descubre la ventaja de asociarte con Legacy Supplements!"
         },
         brandsSection: {
             h2: "MARCAS",
@@ -143,7 +143,7 @@ const data = {
             label: `Acepto los <a href="#">Términos y Condiciones</a>`
         },
         contact: {
-            title: "Siéntase libre de preguntar cualquier cosa",
+            title: "Centro de Ayuda, Déjanos un mensaje",
             name: "Nombre",
             email: "Correo electrónico",
             message: "Mensaje",
