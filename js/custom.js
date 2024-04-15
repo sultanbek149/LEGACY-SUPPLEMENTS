@@ -62,7 +62,7 @@ const openModal = document.querySelector('#open-modal')
 
 function sendMessage(name, email, message, phone) {
   // console.log(modalName.value, modalEmail.value, modalPhone.value, modalMessage.value)
-  const text = `<b>Web data:</b> %0A<b>Name:</b> <i>${name.value}</i> %0A<b>Email:</b> <i>${email.value}</i>%0A<b>Phone number:</b> <i>${phone?.value}</i> %0A<b>Message:</b> <i>${message.value}</i>`
+  const text = `<b>Web data:</b> %0A<b>Name:</b> <i>${name.value}</i> %0A<b>Email:</b> <i>${email.value}</i>%0A<b>Phone number:</b> <i>${phone ? phone.value : 'not provided'}</i> %0A<b>Message:</b> <i>${message.value}</i>`
 
 
   const t = "6776512405:AAG4hJef-NsCNBIgUV3d2_1TYaFdvW3cHaA"
